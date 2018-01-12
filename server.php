@@ -13,7 +13,7 @@ class Operacion {
 
     /**
      * Resta
-     * @param integer 
+     * @param integer
      * @return integer
      */
     public function sub($a, $b) {
@@ -22,7 +22,7 @@ class Operacion {
 
     /**
      * Multiplicación
-     * @param integer 
+     * @param integer
      * @return integer
      */
     public function mul($a, $b) {
